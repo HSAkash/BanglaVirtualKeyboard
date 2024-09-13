@@ -1,0 +1,10 @@
+mediapipe==0.10.9
+numpy==1.26.3
+opencv-python==4.9.0.80
+PyAutoGUI==0.9.54
+pynput==1.7.6
+pyudev; sys_platform == 'linux'
+pywin32; sys_platform == 'win32'
+tk; sys_platform == 'win32'
+win32gui; sys_platform == 'win32'
+win32con; sys_platform == 'win32'
